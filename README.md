@@ -1,7 +1,7 @@
 
 <p align=”center”>
 
-<img width="1000" height="550" alt="Make your README (2)" src="https://github.com/katisokm10/katisokm10/assets/130474037/fd3e8df9-3d92-464c-9978-eebeb876df26">
+<img width="1000" height="450" alt="Make your README (2)" src="https://github.com/katisokm10/katisokm10/assets/130474037/fd3e8df9-3d92-464c-9978-eebeb876df26">
 </p>
 
 ## Hi there 👋
