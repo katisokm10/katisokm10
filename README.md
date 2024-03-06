@@ -1,4 +1,12 @@
 ### Hi there 👋
+![Make your README (1)](https://github.com/katisokm10/katisokm10/assets/130474037/78ded1f4-ecad-4bfa-9e4c-171ee284472e)
+
+
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/katisokm10/katisokm10/assets/130474037/82837de3-e5d1-4efa-938b-cad831a92c5a" alt=”my banner”>
+
+</p>
 I'm Katiso Mokoena and I'm currently a student at Codespace. I have a keen interest in web development and am dedicated to continuously learning and improving my skills in this domain.
 
 
